@@ -1,0 +1,1 @@
+# Yapay-Zeka-ile-M-teri-Segmentasyonu
