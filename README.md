@@ -1,1 +1,1 @@
-# Yapay-Zeka-ile-M-teri-Segmentasyonu
+Bu projede Python ile numpy, matploblib, pandas kütüphanelerini kullandım
